@@ -6,7 +6,7 @@ public class Time {
 		// TODO Auto-generated method stub
       System.out.println("hello");
       
-      System.out.println("ghgfhgfv");
+    
       System.out.println("gfthfyfuyfuyfuy");
 	}
 
